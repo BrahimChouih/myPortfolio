@@ -369,7 +369,7 @@ bootstrap.min.css:5
 	
 }
 
-#Skils  {
+#Skills  {
 	color: #fff;
 	background-color: #ff8989;
 	background-image: url(../img/background1.jpg);
@@ -379,14 +379,14 @@ bootstrap.min.css:5
 	padding: 100px 60px 100px 60px;
 }
 
-#Skils  p{
+#Skills  p{
 	color: #fff;
 
 	text-align: center;
 	text-decoration-color: #fff;
 
 }
-#SoftSkils  {
+#SoftSkills  {
 	color: #fff;
 	background-color: #ff8989;
 	background-image: url(../img/background1.jpg);
